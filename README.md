@@ -119,5 +119,3 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 > — Muhammad Ali
 
 ---
-
-**Feel free to tweak or replace placeholder images with your own screenshots or GIFs! Would you like me to generate specific custom badges or illustrations for your profile?**
