@@ -126,7 +126,7 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 
 ---
 
-> *"In a world flooded with data, I aim to extract intelligence and build systems that matter."*  
+> *"I build intelligent systems that transform data into decisions that matter."*  
 > — Muhammad Ali
 
 ---
