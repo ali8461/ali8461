@@ -81,22 +81,22 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 
 | Project | Description |
 |---------|-------------|
-| **[Loan Prediction ML Website](https://github.com/ali8461/loan-prediction-ml-website)** | Machine Learning-powered website for loan approval predictions. |
-| **[Multi-Agent Workout Recommendation Website](https://github.com/ali8461/multi-agent-workout-recommendation-website)** | AI agents collaborating to provide personalized workout recommendations. |
+| **[Deep Voice Agent](https://github.com/ali8461/deepgram-voice-agent)** | Voice-interactive AI agent leveraging Deepgram's speech-to-text API for real-time interactions. |
+| **[Loan Approval AI](https://github.com/ali8461/loan-prediction-ml-website)** | Machine Learning-powered website for loan approval predictions. |
+| **[Multi Fit AI Coach](https://github.com/ali8461/multi-agent-workout-recommendation-website)** | AI agents collaborating to provide personalized workout recommendations. |
 | **[Advanced HR Dashboard - Tableau](https://github.com/ali8461/advanced-hr-dashboard-tableau)** | Interactive employee analytics dashboards using Tableau with filterable insights. |
-| **[Braitenberg-Vehicles-emergent-ai-behaviors-in-unreal-engine](https://github.com/ali8461/Braitenberg-Vehicles-emergent-ai-behaviors-in-unreal-engine)** | AI-inspired robotics simulation exploring how minimal sensor-motor connections can give rise to complex, lifelike behaviors. |
-| **[Cricket Data Analysis ETL](https://github.com/ali8461/cricket-data-analysis-etl)** | Created an end-to-end ETL pipeline for cricket data analysis. |
+| **[Emergent AI Vehicles](https://github.com/ali8461/Braitenberg-Vehicles-emergent-ai-behaviors-in-unreal-engine)** | AI-inspired robotics simulation exploring how minimal sensor-motor connections can give rise to complex, lifelike behaviors. |
+| **[SQL Genie](https://github.com/ali8461/text-to-sql-bot-website)** | Web-based chatbot converting natural language queries into SQL dynamically. |
+| **[Pizza Review AI Chatbot](https://github.com/ali8461/pizza-review-chatbot-rag)** | RAG-based chatbot analyzing pizza reviews and generating interactive responses. |
+| **[Cricket Guru](https://github.com/ali8461/cricket-data-analysis-etl)** | Created an end-to-end ETL pipeline for cricket data analysis. |
 | **[Open Weather ETL](https://github.com/ali8461/open-weather-etl)** | Extracted and processed weather data using API-driven ETL workflows. |
 | **[Stock Market ETL](https://github.com/ali8461/stock-market-etl)** | Automated stock market data extraction, transformation, and loading for analysis. |
-| **[YouTube Comments ETL](https://github.com/ali8461/youtube-comments-etl)** | Extracted and analyzed YouTube comments for sentiment analysis and insights. |
+| **[YouTube Sentiments ETL](https://github.com/ali8461/youtube-comments-etl)** | Extracted and analyzed YouTube comments for sentiment analysis and insights. |
 | **[YouTube AWS ETL](https://github.com/ali8461/youtube-aws-etl)** | Cloud-native ETL pipelines for YouTube data leveraging AWS services. |
-| **[Text-to-SQL Bot Website](https://github.com/ali8461/text-to-sql-bot-website)** | Web-based chatbot converting natural language queries into SQL dynamically. |
-| **[Pizza Review Chatbot (RAG)](https://github.com/ali8461/pizza-review-chatbot-rag)** | RAG-based chatbot analyzing pizza reviews and generating interactive responses. |
 | **[Open Meteo ETL](https://github.com/ali8461/open-meteo-etl)** | Processed meteorological data from Open Meteo API for structured analysis. |
-| **[Deepgram Voice Agent](https://github.com/ali8461/deepgram-voice-agent)** | Voice-interactive AI agent leveraging Deepgram's speech-to-text API for real-time interactions. |
 | **[Preference-Based SQL Query Optimization](https://github.com/ali8461/preference-based-sql-query-optimization)** | Developed preference-based SQL extensions using the Winnow operator for advanced query customization. |
-| **[Custom DBSCAN & K-Means for Image Clustering](https://github.com/ali8461/custom-dbscan---k-means-for-image-clustering)** | Built custom implementations of clustering algorithms for image segmentation and analysis. |
-| **[Information Retrieval System](https://github.com/ali8461/information-retrieval-system)** | Designed an NLP-based search engine using Boolean & Vector Space models for optimized document search. |
+| **[Custom Image Clustering](https://github.com/ali8461/custom-dbscan---k-means-for-image-clustering)** | Built custom implementations of clustering algorithms for image segmentation and analysis. |
+| **[Custom Information Retrieval System](https://github.com/ali8461/information-retrieval-system)** | Designed an NLP-based search engine using Boolean & Vector Space models for optimized document search. |
 
 > 👉 Explore all repositories for source code, notebooks, and live demos!
 
