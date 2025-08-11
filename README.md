@@ -84,6 +84,7 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 | **[Loan Prediction ML Website](https://github.com/ali8461/loan-prediction-ml-website)** | Machine Learning-powered website for loan approval predictions. |
 | **[Multi-Agent Workout Recommendation Website](https://github.com/ali8461/multi-agent-workout-recommendation-website)** | AI agents collaborating to provide personalized workout recommendations. |
 | **[Advanced HR Dashboard - Tableau](https://github.com/ali8461/advanced-hr-dashboard-tableau)** | Interactive employee analytics dashboards using Tableau with filterable insights. |
+| **[Braitenberg-Vehicles-emergent-ai-behaviors-in-unreal-engine](https://github.com/ali8461/Braitenberg-Vehicles-emergent-ai-behaviors-in-unreal-engine)** | AI-inspired robotics simulation exploring how minimal sensor-motor connections can give rise to complex, lifelike behaviors. |
 | **[Cricket Data Analysis ETL](https://github.com/ali8461/cricket-data-analysis-etl)** | Created an end-to-end ETL pipeline for cricket data analysis. |
 | **[Open Weather ETL](https://github.com/ali8461/open-weather-etl)** | Extracted and processed weather data using API-driven ETL workflows. |
 | **[Stock Market ETL](https://github.com/ali8461/stock-market-etl)** | Automated stock market data extraction, transformation, and loading for analysis. |
