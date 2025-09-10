@@ -85,6 +85,8 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 | **[Loan Approval AI](https://github.com/ali8461/loan-prediction-ml-website)** | Machine Learning-powered website for loan approval predictions. |
 | **[Multi Fit AI Coach](https://github.com/ali8461/multi-agent-workout-recommendation-website)** | AI agents collaborating to provide personalized workout recommendations. |
 | **[Advanced HR Dashboard - Tableau](https://github.com/ali8461/advanced-hr-dashboard-tableau)** | Interactive employee analytics dashboards using Tableau with filterable insights. |
+| **[SQL Data Analytics](https://github.com/ali8461/DataAnalyticsSQL)** | Developed advanced SQL queries for KPIs, trend analysis, segmentation, and reporting. |
+| **[Data Warehouse Project](https://github.com/ali8461/DatawareHouseProject)** | Built an end-to-end data warehouse with ETL pipelines, layered architecture, and star-schema modeling. |
 | **[Emergent AI Vehicles](https://github.com/ali8461/Braitenberg-Vehicles-emergent-ai-behaviors-in-unreal-engine)** | AI-inspired robotics simulation exploring how minimal sensor-motor connections can give rise to complex, lifelike behaviors. |
 | **[SQL Genie](https://github.com/ali8461/text-to-sql-bot-website)** | Web-based chatbot converting natural language queries into SQL dynamically. |
 | **[Pizza Review AI Chatbot](https://github.com/ali8461/pizza-review-chatbot-rag)** | RAG-based chatbot analyzing pizza reviews and generating interactive responses. |
