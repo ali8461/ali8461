@@ -166,7 +166,7 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-COMPLETED-brightgreen?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-brightgreen?style=for-the-badge)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-D7141A?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 </div>
