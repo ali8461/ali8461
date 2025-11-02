@@ -10,11 +10,11 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 
 🔍 Currently focusing on:
 
-- 🤖 Fine-tuning and deploying **LLM agents**
-- 🛠 Building efficient **ETL pipelines**
-- 📊 Developing **AI models** with Python and Scikit-learn
-- ☁️ Designing **Cloud-native architectures** on AWS
-- 📈 Data visualization using **Tableau** & **Matplotlib**
+- 🤖 Developing, fine-tuning, and deploying **AI agents** powered by **LLMs** and **PyTorch**
+- 🛠 Building and automating **ETL data pipelines** using Python, Apache Airflow, and Kafka
+- 📊 Designing and training **machine learning and deep learning models** with **Scikit-learn** and **PyTorch**
+- ☁️ Architecting and deploying **cloud-native solutions** on **AWS** for scalable AI systems
+- 📈 Automating **data analytics workflows** and creating interactive visualizations using **Tableau** and **Matplotlib**
 
 ---
 
