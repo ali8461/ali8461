@@ -133,22 +133,26 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 
 | Project | Description |
 |---------|-------------|
-| **[Deep Voice Agent](https://github.com/ali8461/deepgram-voice-agent)** | Voice-interactive AI agent leveraging Deepgram's speech-to-text API for real-time interactions. |
-| **[Loan Approval AI](https://github.com/ali8461/loan-prediction-ml-website)** | Machine Learning-powered website for loan approval predictions. |
-| **[Multi Fit AI Coach](https://github.com/ali8461/multi-agent-workout-recommendation-website)** | AI agents collaborating to provide personalized workout recommendations. |
-| **[Advanced HR Dashboard - Tableau](https://github.com/ali8461/advanced-hr-dashboard-tableau)** | Interactive employee analytics dashboards using Tableau with filterable insights. |
+| **[Deep Voice Agent](https://github.com/ali8461/deepgram-voice-agent)** | Built a real-time voice AI with Twilio & GPT-4o, enabling phone automation and faster query handling. |
+| **[Stock Market ETL](https://github.com/ali8461/stock-market-etl)** | Real-time ETL pipeline streaming stock data via Kafka to S3, cataloge with Glue, analyse with Athena. |
+| **[Multi Fit AI Coach](https://github.com/ali8461/multi-agent-workout-recommendation-website)** | Designed multi-agent AI using Langflow for personalized workout plans and nutrition plans. |
+| **[Advanced HR Dashboard - Tableau](https://github.com/ali8461/advanced-hr-dashboard-tableau)** | Created an interactive HR dashboard with multi-filter insights to support data-driven decisions. |
+| **[Loan Approval AI](https://github.com/ali8461/loan-prediction-ml-website)** | Developed an ML web app using Flask and scikit-learn for real-time loan eligibility prediction. |
 | **[SQL Data Analytics](https://github.com/ali8461/DataAnalyticsSQL)** | Developed advanced SQL queries for KPIs, trend analysis, segmentation, and reporting. |
+| **[WhatsApp Appointment Automation](https://github.com/ali8461/whatsapp-appointment-automation)** | Automated appointments, reminders, and payments via using n8n workflows and Airtable. |
 | **[Data Warehouse Project](https://github.com/ali8461/DatawareHouseProject)** | Built an end-to-end data warehouse with ETL pipelines, layered architecture, and star-schema modeling. |
+| **[AI Medical Reasoning Agent](https://github.com/ali8461/AI-medical-reasoning-agent)** | Developed an AI system providing medical insights, step-by-step diagnostics, and reasoning. |
+| **[Open Weather ETL](https://github.com/ali8461/open-weather-etl)** | End-to-end AWS ETL pipeline processing weather forecast into Redshift using Managed Airflow. |
 | **[Emergent AI Vehicles](https://github.com/ali8461/Braitenberg-Vehicles-emergent-ai-behaviors-in-unreal-engine)** | AI-inspired robotics simulation exploring how minimal sensor-motor connections can give rise to complex, lifelike behaviors. |
-| **[SQL Genie](https://github.com/ali8461/text-to-sql-bot-website)** | Web-based chatbot converting natural language queries into SQL dynamically. |
-| **[Pizza Review AI Chatbot](https://github.com/ali8461/pizza-review-chatbot-rag)** | RAG-based chatbot analyzing pizza reviews and generating interactive responses. |
-| **[Cricket Guru](https://github.com/ali8461/cricket-data-analysis-etl)** | Created an end-to-end ETL pipeline for cricket data analysis. |
-| **[Open Weather ETL](https://github.com/ali8461/open-weather-etl)** | Extracted and processed weather data using API-driven ETL workflows. |
-| **[Stock Market ETL](https://github.com/ali8461/stock-market-etl)** | Automated stock market data extraction, transformation, and loading for analysis. |
-| **[YouTube Sentiments ETL](https://github.com/ali8461/youtube-comments-etl)** | Extracted and analyzed YouTube comments for sentiment analysis and insights. |
-| **[YouTube AWS ETL](https://github.com/ali8461/youtube-aws-etl)** | Cloud-native ETL pipelines for YouTube data leveraging AWS services. |
-| **[Open Meteo ETL](https://github.com/ali8461/open-meteo-etl)** | Processed meteorological data from Open Meteo API for structured analysis. |
+| **[Vision Radiology Agent](https://github.com/ali8461/vision-radiology-agent)** | Created a vision-language AI tool to interpret medical scans and generate radiology reports. |
+| **[SQL Genie](https://github.com/ali8461/text-to-sql-bot-website)** | Developed a natural language to SQL assistant using OpenAI GPT and Streamlit, simplifying queries for users. |
+| **[Liver Segmentation 3D U-Net](https://github.com/ali8461/liver-segmentation-3d-unet)** | Built a 3D U-Net (MONAI) to segment liver accurately from volumetric medical scans. |
+| **[Pizza Review AI Chatbot](https://github.com/ali8461/pizza-review-chatbot-rag)** | Built a RAG-based chatbot to analyse customer reviews via local LLMs, improving restaurant insights. |
+| **[Cricket Guru](https://github.com/ali8461/cricket-data-analysis-etl)** | PySpark pipeline analyzing historical cricket data with cleaning, metrics, and visualizations. |
+| **[YouTube AWS ETL](https://github.com/ali8461/youtube-aws-etl)** | Serverless AWS pipeline with S3, Glue, Lambda, Athena, QuickSight to analyze trending videos. |
+| **[Open Meteo ETL](https://github.com/ali8461/open-meteo-etl)** | ETL pipeline to fetch, transform and storing weather data in PostgreSQL using Airflow and Astro. |
 | **[Preference-Based SQL Query Optimization](https://github.com/ali8461/preference-based-sql-query-optimization)** | Developed preference-based SQL extensions using the Winnow operator for advanced query customization. |
+| **[YouTube Sentiments ETL](https://github.com/ali8461/youtube-comments-etl)** | An airflow-based ETL pipeline to extract, transform and store YouTube comments in S3. |
 | **[Custom Image Clustering](https://github.com/ali8461/custom-dbscan---k-means-for-image-clustering)** | Built custom implementations of clustering algorithms for image segmentation and analysis. |
 | **[Custom Information Retrieval System](https://github.com/ali8461/information-retrieval-system)** | Designed an NLP-based search engine using Boolean & Vector Space models for optimized document search. |
 
