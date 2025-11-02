@@ -179,7 +179,7 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-75a720186)  
 ✉️ ali8461997@gmail.com  
-📍 Memmingen, Germany  
+📍 Germany  
 
 </div>
 
