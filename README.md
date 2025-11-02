@@ -38,34 +38,59 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 
 ---
 
-## 🤖 AI, Machine Learning & Automations
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-009688?style=for-the-badge\&logo=python\&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation_Scripts-0078D7?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge\&logo=ruby\&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 GenAI & LLM Tools
+## 📊 Data Science & Visualization
 
 <div align="center">
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-009688?style=for-the-badge\&logo=python\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 AI, GenAI & LLM Ecosystem
+
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge\&logo=gradio\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![Langflow](https://img.shields.io/badge/Langflow-4B8BBE?style=for-the-badge\&logo=python\&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB800?style=for-the-badge\&logo=chroma\&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 ![OpenAI\_API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-222222?style=for-the-badge\&logo=python\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0052CC?style=for-the-badge\&logo=ai\&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-1C1C1C?style=for-the-badge\&logo=deepgram\&logoColor=white)
 ![Livekit](https://img.shields.io/badge/Livekit-FF4F64?style=for-the-badge\&logo=livekit\&logoColor=white)
 
@@ -101,6 +126,7 @@ I'm an aspiring **AI and Data Engineer** based in Germany, passionate about comb
 </div>
 
 ---
+
 
 
 ## 🚀 My Recent Projects
